@@ -421,7 +421,7 @@ namespace GUI_Main
             this.Margin = new System.Windows.Forms.Padding(4);
             this.MinimumSize = new System.Drawing.Size(927, 621);
             this.Name = "MainForm";
-            this.Text = "گروه 6";
+            this.Text = "NQueen-Problem";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.SizeChanged += new System.EventHandler(this.MainForm_SizeChanged);
             this.pnlControls.ResumeLayout(false);
