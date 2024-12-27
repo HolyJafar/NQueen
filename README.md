@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and improvements.
 
 ## Author
-Your Name - [Your Contact Information or GitHub Profile]
+Jafar Mirzaei - [Your Contact Information or GitHub Profile]
 
 ## Acknowledgments
 - This project was developed as part of a university course on genetic algorithms and artificial intelligence.
