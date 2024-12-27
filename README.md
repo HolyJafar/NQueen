@@ -55,15 +55,6 @@ This repository contains a C# implementation of a Genetic Algorithm to solve the
 - **Number of Generations**: Maximum iterations for the algorithm.
 - **Fitness Evaluation Method**: Choose between conflict-based or non-threatening queen evaluation.
 
-## Example Output
-```text
-Best Solution Found:
-[0, 2, 4, 1, 3]  # Example chromosome
-Fitness Score: 0
-
-Note: Fitness Score of 0 indicates no conflicts.
-```
-
 ## Dependencies
 - .NET Framework or .NET Core
 
