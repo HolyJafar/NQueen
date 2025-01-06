@@ -39,11 +39,11 @@ This repository contains a C# implementation of a Genetic Algorithm to solve the
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/HolyJafar/NQueen.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd NQueen
    ```
 3. Open the solution file (`.sln`) in your preferred C# IDE (e.g., Visual Studio).
 4. Configure parameters such as population size, mutation rate, and number of generations in the program.
